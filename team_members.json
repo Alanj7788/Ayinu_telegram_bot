@@ -1,0 +1,161 @@
+{
+    "Jerin Jaison": {
+        "bio": "Software Engineering student. Computer Science Engineer with expertise in web development and data structures. Proficient in Python and C. Passionate about learning new technologies and interested in problem-solving.",
+        "skills": ["Python", "C", "HTML", "CSS", "React", "GitHub", "Deep Learning", "Figma", "Canva"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["ICT Academy Summer Internship", "NASA International Space App Challenge Hackathon"],
+        "volunteer_experience": ["Hackathena 23 (Hackathon)", "Tharang 23 (Tech Fest)"],
+        "projects": [
+            "Travel Blog Website (5 member team)",
+            "Emit Mobile App (6 member team)",
+            "Emit Website (6 member team)",
+            "Toxic Comment Detector Using Deep Learning (4 member team mini project)"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com",
+        "additional_info": "He's a good video maker and editor."
+    },
+    "Alan Jose": {
+        "bio": "Aspiring software engineer with strong skills in Python and web development. Experienced in developing and managing various web applications and passionate about leveraging technology to solve real-world problems.",
+        "skills": ["Python", "JavaScript", "Django", "Flask", "HTML", "CSS"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["XYZ Tech Solutions (Internship)"],
+        "projects": [
+            "Personal Portfolio Website",
+            "E-commerce Web App",
+            "Blogging Platform"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Alwin Mathew": {
+        "bio": "Passionate about data science and machine learning with practical experience in building predictive models and data analysis. Adept at Python and various ML libraries.",
+        "skills": ["Python", "Scikit-learn", "Pandas", "Numpy", "Matplotlib", "Seaborn"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Data Science Intern at ABC Analytics"],
+        "projects": [
+            "Customer Segmentation Analysis",
+            "Sales Forecasting Model",
+            "Recommendation System"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Akhil Jose": {
+        "bio": "Software developer with experience in full-stack development. Skilled in both front-end and back-end technologies. Enthusiastic about working on innovative projects and collaborative development.",
+        "skills": ["JavaScript", "React", "Node.js", "Express", "MongoDB", "HTML", "CSS"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Full-Stack Developer Intern at DEF Technologies"],
+        "projects": [
+            "Chat Application",
+            "Task Management Tool",
+            "Portfolio Website"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Abin Bijoy": {
+        "bio": "Experienced in mobile app development and passionate about creating user-friendly applications. Proficient in Android development and cross-platform frameworks.",
+        "skills": ["Java", "Kotlin", "Flutter", "Android", "Firebase"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Mobile App Developer Intern at GHI Apps"],
+        "projects": [
+            "Fitness Tracker App",
+            "Expense Manager",
+            "Travel Companion App"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Abishek PS": {
+        "bio": "Web developer with a strong focus on building responsive and interactive web applications. Skilled in front-end and back-end development with a keen eye for design.",
+        "skills": ["JavaScript", "React", "Node.js", "Express", "HTML", "CSS"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Web Developer Intern at JKL Web Solutions"],
+        "projects": [
+            "E-commerce Platform",
+            "Blog Website",
+            "Real Estate Web App"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Abi John": {
+        "bio": "Skilled in data engineering and cloud computing with experience in managing and processing large datasets. Adept at using modern data tools and technologies.",
+        "skills": ["Python", "SQL", "AWS", "Big Data", "Hadoop"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Data Engineering Intern at MNO Tech"],
+        "projects": [
+            "Data Pipeline Implementation",
+            "Real-time Data Processing System",
+            "Cloud-based Data Storage Solution"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Evin Babu": {
+        "bio": "Aspiring software engineer with strong skills in Python and web development. Experienced in developing and managing various web applications and passionate about leveraging technology to solve real-world problems.",
+        "skills": ["Python", "JavaScript", "Django", "Flask", "HTML", "CSS"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["XYZ Tech Solutions (Internship)"],
+        "projects": [
+            "Personal Portfolio Website",
+            "E-commerce Web App",
+            "Blogging Platform"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Athul Murali": {
+        "bio": "Focused on backend development and database management with hands-on experience in various data management systems. Adept at developing scalable and efficient backend solutions.",
+        "skills": ["Java", "Spring Boot", "SQL", "NoSQL", "REST APIs"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Backend Developer Intern at PQR Tech Solutions"],
+        "projects": [
+            "Inventory Management System",
+            "User Authentication Service",
+            "API for E-commerce Platform"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Aswin Vincent": {
+        "bio": "Specialized in cybersecurity and network security with experience in implementing security protocols and conducting vulnerability assessments.",
+        "skills": ["Python", "Network Security", "Penetration Testing", "Ethical Hacking"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Cybersecurity Intern at STU Cybersec"],
+        "projects": [
+            "Network Intrusion Detection System",
+            "Vulnerability Assessment Report",
+            "Security Awareness Training Program"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Freejo Jaison": {
+        "bio": "Expert in mobile application development with experience in Android and cross-platform frameworks. Adept at creating engaging user interfaces and optimizing application performance.",
+        "skills": ["Java", "Kotlin", "Flutter", "Android", "Firebase"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Mobile App Developer Intern at UVW Tech"],
+        "projects": [
+            "Expense Tracker App",
+            "Recipe Finder App",
+            "Health Monitoring App"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Adithya E": {
+        "bio": "Expert in mobile application development with experience in Android and cross-platform frameworks. Adept at creating engaging user interfaces and optimizing application performance.",
+        "skills": ["Java", "Kotlin", "Flutter", "Android", "Firebase"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Mobile App Developer Intern at UVW Tech"],
+        "projects": [
+            "Expense Tracker App",
+            "Recipe Finder App",
+            "Health Monitoring App"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    },
+    "Jishnu Devdas": {
+        "bio": "Proficient in full-stack development with a focus on building robust web applications. Experienced in both front-end and back-end technologies.",
+        "skills": ["JavaScript", "React", "Node.js", "Express", "MongoDB", "HTML", "CSS"],
+        "education": "B.Tech in Computer Science and Engineering, Jyothi Engineering College (2021 - Present)",
+        "internships": ["Full-Stack Developer Intern at XYZ Solutions"],
+        "projects": [
+            "E-commerce Web App",
+            "Job Portal Application",
+            "Event Management System"
+        ],
+        "contact": "Phone: XXXXXXXXXX\nEmail: abc@ayinu.com"
+    }
+}
