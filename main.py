@@ -75,6 +75,33 @@ def stop(update, context):
     updater.stop()
     updater.is_idle = False
 
+def search_skills(update, context):
+    # Get the skills entered by the user
+    user_skills = update.message.text.split()[1:]  # Remove "/search_skills"
+
+    # Find members with matching skills
+    matching_members = []
+    for member_name, member_data in team_members.items():
+        member_skills = member_data.get('skills', [])
+        if any(skill in member_skills for skill in user_skills):
+            matching_members.append(member_name)
+
+    # Check if any members were found
+    if matching_members:
+        # Create an inline keyboard with buttons for matching members
+        keyboard = []
+        for member_name in matching_members:
+            keyboard.append([InlineKeyboardButton(member_name, callback_data=member_name)])
+
+        # Create an inline keyboard markup
+        reply_markup = InlineKeyboardMarkup(keyboard)
+
+        # Send the search results message
+        search_message = f"Found members with skills: {', '.join(user_skills)}"
+        update.message.reply_text(search_message, reply_markup=reply_markup)
+    else:
+        update.message.reply_text("No members found with the specified skills.")
+
 # Set up the Telegram updater and dispatcher
 updater = telegram.ext.Updater(TOKEN, use_context=True)
 dispatcher = updater.dispatcher
@@ -84,6 +111,8 @@ dispatcher.add_handler(telegram.ext.CommandHandler('start', start))
 dispatcher.add_handler(telegram.ext.CommandHandler('info', info))
 dispatcher.add_handler(telegram.ext.CallbackQueryHandler(member_info))
 dispatcher.add_handler(telegram.ext.CommandHandler('stop', stop))
+dispatcher.add_handler(telegram.ext.CommandHandler('search_skills', search_skills))
+
 
 # Start polling for updates
 updater.start_polling()
