@@ -3,10 +3,13 @@ from dotenv import load_dotenv
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 import json
 import os
+import schedule
+import time
+import requests
 
 load_dotenv()
 TOKEN = os.getenv('TOKEN')
-
+WEBHOOK_URL = os.getenv('WEBHOOK_URL')
 with open('team_members.json', 'r', encoding='utf-8') as file:
     team_members = json.load(file)
 with open('csea_class.json', 'r', encoding='utf-8') as file:
@@ -19,6 +22,16 @@ buttons_message = """\
 /search_skills : Search Persons based on skills (eg: /search_skills HTML)
 /csea : Know about CSEA students
 """
+
+def ping_server():
+    try:
+        response = requests.get(WEBHOOK_URL)
+        if response.status_code == 200:
+            print("Server pinged successfully.")
+        else:
+            print(f"Server returned status code {response.status_code}.")
+    except Exception as e:
+        print(f"Error pinging server: {e}")
 
 def start(update, context):
     user_first_name = update.message.from_user.first_name
@@ -118,5 +131,14 @@ dispatcher.add_handler(telegram.ext.CommandHandler('search_skills', search_skill
 dispatcher.add_handler(telegram.ext.CommandHandler('csea', csea_info))
 dispatcher.add_handler(telegram.ext.CallbackQueryHandler(handle_callback_query))
 
-updater.start_polling()
-updater.idle()
+schedule.every(5).minutes.do(ping_server)
+
+def run_scheduler():
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+
+if __name__ == '__main__':
+    updater.start_polling()
+    updater.idle()
+    run_scheduler()
