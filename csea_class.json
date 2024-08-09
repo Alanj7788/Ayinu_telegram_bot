@@ -1,0 +1,380 @@
+{
+  "academic_year": "2023-2024",
+  "semester": "Even",
+  "total_count": 63,
+  "students": {
+    "1": {
+      "name": "ABHIJITH SURESH",
+      "register_no": "JEC21CS001",
+      "admission_no": "12112001",
+      "honors_minors": "no"
+    },
+    "2": {
+      "name": "ABHINAV JOY C",
+      "register_no": "JEC21CS002",
+      "admission_no": "12112002",
+      "honors_minors": "no"
+    },
+    "3": {
+      "name": "ABHINAV MUNDIRIKKAL VINOD",
+      "register_no": "JEC21CS003",
+      "admission_no": "12112003",
+      "honors_minors": "no"
+    },
+    "4": {
+      "name": "ABHIRAM T K",
+      "register_no": "JEC21CS004",
+      "admission_no": "12112004",
+      "honors_minors": "no"
+    },
+    "5": {
+      "name": "ABHISHEK P S",
+      "register_no": "JEC21CS005",
+      "admission_no": "12112005",
+      "honors_minors": "no"
+    },
+    "6": {
+      "name": "ABI JOHN",
+      "register_no": "JEC21CS006",
+      "admission_no": "12112006",
+      "honors_minors": "no"
+    },
+    "7": {
+      "name": "ABIN BIJOY",
+      "register_no": "JEC21CS007",
+      "admission_no": "12112007",
+      "honors_minors": "no"
+    },
+    "8": {
+      "name": "ADITHYA E",
+      "register_no": "JEC21CS008",
+      "admission_no": "12112008",
+      "honors_minors": "Honors"
+    },
+    "9": {
+      "name": "ADITYA KUMAR M A",
+      "register_no": "JEC21CS009",
+      "admission_no": "12112009",
+      "honors_minors": "no"
+    },
+    "10": {
+      "name": "ADITYA MANOJ A",
+      "register_no": "JEC21CS010",
+      "admission_no": "12112010",
+      "honors_minors": "no"
+    },
+    "11": {
+      "name": "AGETO SUNNY",
+      "register_no": "JEC21CS011",
+      "admission_no": "12112011",
+      "honors_minors": "no"
+    },
+    "12": {
+      "name": "AKASH JOJU",
+      "register_no": "JEC21CS012",
+      "admission_no": "12112012",
+      "honors_minors": "no"
+    },
+    "13": {
+      "name": "AKHIL JOSE",
+      "register_no": "JEC21CS013",
+      "admission_no": "12112013",
+      "honors_minors": "no"
+    },
+    "14": {
+      "name": "ALAN JOSE",
+      "register_no": "JEC21CS014",
+      "admission_no": "12112014",
+      "honors_minors": "no"
+    },
+    "15": {
+      "name": "ALEENA KURUVILA",
+      "register_no": "JEC21CS015",
+      "admission_no": "12112015",
+      "honors_minors": "no"
+    },
+    "16": {
+      "name": "ALEX EMMATTY",
+      "register_no": "JEC21CS016",
+      "admission_no": "12112016",
+      "honors_minors": "no"
+    },
+    "17": {
+      "name": "ALFIN JOSE",
+      "register_no": "JEC21CS017",
+      "admission_no": "12112017",
+      "honors_minors": "no"
+    },
+    "18": {
+      "name": "ALICIA DENNY",
+      "register_no": "JEC21CS018",
+      "admission_no": "12112018",
+      "honors_minors": "no"
+    },
+    "19": {
+      "name": "ALWIN C SHAJI",
+      "register_no": "JEC21CS019",
+      "admission_no": "12112019",
+      "honors_minors": "no"
+    },
+    "20": {
+      "name": "ALWIN MATHEW",
+      "register_no": "JEC21CS020",
+      "admission_no": "12112020",
+      "honors_minors": "no"
+    },
+    "21": {
+      "name": "AMAL KRISHNA P",
+      "register_no": "JEC21CS021",
+      "admission_no": "12112021",
+      "honors_minors": "no"
+    },
+    "22": {
+      "name": "AMITH P",
+      "register_no": "JEC21CS022",
+      "admission_no": "12112022",
+      "honors_minors": "no"
+    },
+    "23": {
+      "name": "ANAGHA V P",
+      "register_no": "JEC21CS023",
+      "admission_no": "12112023",
+      "honors_minors": "no"
+    },
+    "24": {
+      "name": "ANAKHA A",
+      "register_no": "JEC21CS024",
+      "admission_no": "12112024",
+      "honors_minors": "no"
+    },
+    "25": {
+      "name": "ANAMIKA R",
+      "register_no": "JEC21CS025",
+      "admission_no": "12112025",
+      "honors_minors": "no"
+    },
+    "26": {
+      "name": "ANANDU M",
+      "register_no": "JEC21CS026",
+      "admission_no": "12112026",
+      "honors_minors": "no"
+    },
+    "27": {
+      "name": "ANDREA JAMES",
+      "register_no": "JEC21CS027",
+      "admission_no": "12112027",
+      "honors_minors": "no"
+    },
+    "28": {
+      "name": "ANDREA SUNNY",
+      "register_no": "JEC21CS028",
+      "admission_no": "12112028",
+      "honors_minors": "no"
+    },
+    "29": {
+      "name": "ANGEL ROSE K O",
+      "register_no": "JEC21CS029",
+      "admission_no": "12112029",
+      "honors_minors": "Honors & Minors"
+    },
+    "30": {
+      "name": "ANJO JAISON",
+      "register_no": "JEC21CS030",
+      "admission_no": "12112030",
+      "honors_minors": "no"
+    },
+    "32": {
+      "name": "ANN ROSE MARY SATHYAN",
+      "register_no": "JEC21CS032",
+      "admission_no": "12112031",
+      "honors_minors": "Honors & Minors"
+    },
+    "33": {
+      "name": "ANNROSE WATSON",
+      "register_no": "JEC21CS033",
+      "admission_no": "12112033",
+      "honors_minors": "no"
+    },
+    "34": {
+      "name": "ANTONY SCARIA",
+      "register_no": "JEC21CS034",
+      "admission_no": "12112034",
+      "honors_minors": "no"
+    },
+    "35": {
+      "name": "ANUPAMA S",
+      "register_no": "JEC21CS035",
+      "admission_no": "12112035",
+      "honors_minors": "no"
+    },
+    "36": {
+      "name": "ARJUN E S",
+      "register_no": "JEC21CS036",
+      "admission_no": "12112036",
+      "honors_minors": "no"
+    },
+    "37": {
+      "name": "ARUN K NAIR",
+      "register_no": "JEC21CS037",
+      "admission_no": "12112037",
+      "honors_minors": "no"
+    },
+    "38": {
+      "name": "ARUN KRISHNADAS",
+      "register_no": "JEC21CS038",
+      "admission_no": "12112038",
+      "honors_minors": "no"
+    },
+    "39": {
+      "name": "ASWATHY P S",
+      "register_no": "JEC21CS039",
+      "admission_no": "12112039",
+      "honors_minors": "no"
+    },
+    "40": {
+      "name": "ASWIN VINCENT",
+      "register_no": "JEC21CS040",
+      "admission_no": "12112040",
+      "honors_minors": "no"
+    },
+    "41": {
+      "name": "ATHUL MURALI T",
+      "register_no": "JEC21CS041",
+      "admission_no": "12112041",
+      "honors_minors": "no"
+    },
+    "42": {
+      "name": "BASIL ISAC",
+      "register_no": "JEC21CS042",
+      "admission_no": "12112043",
+      "honors_minors": "no"
+    },
+    "43": {
+      "name": "BELICIA DENNY",
+      "register_no": "JEC21CS043",
+      "admission_no": "12112044",
+      "honors_minors": "no"
+    },
+    "44": {
+      "name": "BINDUJA BABU UB",
+      "register_no": "JEC21CS044",
+      "admission_no": "12112045",
+      "honors_minors": "no"
+    },
+    "45": {
+      "name": "B NITHIN",
+      "register_no": "JEC21CS045",
+      "admission_no": "12112042",
+      "honors_minors": "no"
+    },
+    "46": {
+      "name": "CHRISTENA M SUNNY",
+      "register_no": "JEC21CS046",
+      "admission_no": "12112046",
+      "honors_minors": "no"
+    },
+    "47": {
+      "name": "DEENA BYJU",
+      "register_no": "JEC21CS047",
+      "admission_no": "12112047",
+      "honors_minors": "no"
+    },
+    "48": {
+      "name": "DEVNA AJITH",
+      "register_no": "JEC21CS048",
+      "admission_no": "12112048",
+      "honors_minors": "no"
+    },
+    "49": {
+      "name": "DHIYA BABU",
+      "register_no": "JEC21CS049",
+      "admission_no": "12112049",
+      "honors_minors": "no"
+    },
+    "50": {
+      "name": "DIYA BENNY",
+      "register_no": "JEC21CS050",
+      "admission_no": "12112050",
+      "honors_minors": "no"
+    },
+    "51": {
+      "name": "EVIN BABU",
+      "register_no": "JEC21CS051",
+      "admission_no": "12112051",
+      "honors_minors": "no"
+    },
+    "52": {
+      "name": "FADIL C A",
+      "register_no": "JEC21CS052",
+      "admission_no": "12112052",
+      "honors_minors": "no"
+    },
+    "53": {
+      "name": "FATHIMATHUL THABSHIRA P J",
+      "register_no": "JEC21CS053",
+      "admission_no": "12112053",
+      "honors_minors": "no"
+    },
+    "54": {
+      "name": "FREEJO JAISON K",
+      "register_no": "JEC21CS054",
+      "admission_no": "12112054",
+      "honors_minors": "no"
+    },
+    "55": {
+      "name": "GEETHIKA S",
+      "register_no": "JEC21CS055",
+      "admission_no": "12112055",
+      "honors_minors": "no"
+    },
+    "56": {
+      "name": "GODFREY GEORGE GEEJO",
+      "register_no": "JEC21CS056",
+      "admission_no": "12112056",
+      "honors_minors": "no"
+    },
+    "57": {
+      "name": "GOKUL P MENON",
+      "register_no": "JEC21CS057",
+      "admission_no": "12112057",
+      "honors_minors": "Honors"
+    },
+    "58": {
+      "name": "GOPIKA P V",
+      "register_no": "JEC21CS058",
+      "admission_no": "12112058",
+      "honors_minors": "no"
+    },
+    "59": {
+      "name": "HAREESH",
+      "register_no": "JEC21CS059",
+      "admission_no": "12112059",
+      "honors_minors": "no"
+    },
+    "60": {
+      "name": "HRIDHYA U R",
+      "register_no": "JEC21CS060",
+      "admission_no": "12112060",
+      "honors_minors": "no"
+    },
+    "61": {
+      "name": "IRENE JOY",
+      "register_no": "JEC21CS061",
+      "admission_no": "12112061",
+      "honors_minors": "no"
+    },
+    "62": {
+      "name": "JERIN JAISON T",
+      "register_no": "JEC21CS062",
+      "admission_no": "12112062",
+      "honors_minors": "no"
+    },
+    "63": {
+      "name": "JISHNU DEVADAS",
+      "register_no": "JEC21CS063",
+      "admission_no": "12112063",
+      "honors_minors": "no"
+    }
+  }}
+
+
